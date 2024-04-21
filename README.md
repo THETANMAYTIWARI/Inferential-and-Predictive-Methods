@@ -1,5 +1,5 @@
 ## Project Title
-# Inferential and Predictive Methods
+## Inferential and Predictive Methods
 
 ## Introduction
 This project explores inferential and predictive methods using Python, focusing on analyzing payroll data. The code demonstrates various statistical techniques, including hypothesis testing, linear regression, decision tree classification, and logistic regression.
